@@ -1,0 +1,40 @@
+body {
+    background-color: #2B2B;
+    font-family: Arial;
+  }
+  
+  .menu {
+    background-color: #2B2B;
+  }
+  
+  a {
+    color: none;
+    text-decoration: none;
+    
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  .site-title {
+    text-align: center;
+    color: #94B;
+  }
+  .site-subtitle {
+    text-align: center;
+    color: #94B;
+    font-style: italic;
+  } 
